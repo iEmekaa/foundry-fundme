@@ -154,8 +154,8 @@ Here are some ideas for improving the project in the future:
 
 This is my first Solidity project, and I'm excited to continue learning and building in the blockchain space! Feel free to connect with me:
 
-- **GitHub**: [Your GitHub Profile](https://github.com/iEmekaa)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/iEmekaa)
+- **GitHub**: [GitHub Profile](https://github.com/iEmekaa)
+- **Twitter**: [Twitter Handle](https://twitter.com/iEmekaa)
 
 ---
 
